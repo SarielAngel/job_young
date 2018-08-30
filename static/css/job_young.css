@@ -1,0 +1,10 @@
+.job_name {
+  position: absolute;
+  top: 1.25em;
+  left: 1.25em;
+  font-size: large;
+  font-weight: bold;
+  color: #888888;
+}
+
+

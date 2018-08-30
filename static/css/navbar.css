@@ -1,0 +1,51 @@
+	.he-icon {
+		width: 40px;
+		text-align: center;
+	}
+	
+	.he-magin100 {
+		margin-top: 100px;
+	}
+	
+	.he-magin30 {
+		margin-top: 30px;
+	}
+	
+	.he-title-center {
+		display: inline-block;
+		height: 50px;
+		width: 100%;
+		text-align: center;
+		font-size: 20px;
+		line-height: 50px;
+	}
+	
+	.he-center {
+		height: 60px;
+		width: 100%;
+		text-align: center;
+		font-size: 25px;
+		line-height: 60px;
+		font-family: "微软雅黑";
+		color: cornflowerblue;
+	}
+	
+	.he-left {
+		display: inline;
+		height: 40px;
+		width: 50%;
+		text-align: right;
+		font-size: 16px;
+	}
+	
+	.he-right {
+		display: inline;
+		height: 40px;
+		width: 50%;
+		text-align: left;
+		font-size: 16px;
+	}
+	
+	.he-captcha {
+		width: 75%;
+	}
